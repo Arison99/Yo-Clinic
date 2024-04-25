@@ -1,8 +1,28 @@
-"# Yo-Clinic"
-Download the repo from github
-Open cmd, go to Yo-Clinic/Frontend and type 'npm install'.
-Again in cmd, go to Yo-Clinic/Backend and type 'npm install'.
+# Yo-Clinic App
+
+## Clone The Repository
+- clone the repo from github
+  Using Http
+  `git clone https://github.com/Arison99/Yo-Clinic.git`
+  or using SSH
+  `git cone git@github.com:Arison99/Yo-Clinic.git`
+
+## Setup the Frontend
+- In your terminal navigate and run the following commands.
+  `cd Yo-Clinic/Frontend`
+  `npm install`
+
+## Setup the Backend
+- Navigate to Yo-Clinic/Backend and run the commands below.
+  `cd ../Backend`
+  `npm install`
 This installs the necessary frameworks React.js, Node.js, Express.js, and other libraries.
-Then, download and install Mongodb, MongoCompass & MongoShell.
-After, in cmd, go to Yo-Clinic and type 'npm run'.
-In case of any questions, e-mail me at harrisondaviinci@gmail.com.
+- Then, download and install Mongodb, MongoCompass & MongoShell.
+
+## Run APP
+- Navigate to root directory and run app.
+  `cd ..`
+  `npm run`
+
+## Contact
+Reach out for queries or collaborations via e-mail at [Harrison Davici](mailto:harrisondaviinci@gmail.com)
