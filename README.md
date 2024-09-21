@@ -5,7 +5,7 @@
   Using HTTP  
   `git clone https://github.com/Arison99/Yo-Clinic.git`  
   Using SSH  
-  `git cone git@github.com:Arison99/Yo-Clinic.git`  
+  `git clone git@github.com:Arison99/Yo-Clinic.git`  
   
 ## Setup the Frontend
 - Navigate to the Frontend directory and install.  
@@ -22,7 +22,7 @@ This installs the necessary frameworks React.js, Node.js, Express.js, and other 
 ## Run APP
 - Navigate to the root directory and run the App.  
   `cd ..`  
-  `npm run`  
+  `npm run dev`  
 
 ## Contact
-Reach out for queries or collaborations via e-mail at [Harrison Davici](mailto:harrisondaviinci@gmail.com)
+Reach out for queries or collaborations via e-mail at [Harrison Daviinci](mailto:harrisondaviinci@gmail.com)
